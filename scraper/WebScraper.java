@@ -1,4 +1,4 @@
-package org.example.controller;
+package org.example.scraper;
 
 import org.example.Main;
 import org.example.model.Comment;

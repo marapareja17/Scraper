@@ -1,7 +1,7 @@
 package org.example;
 
 import org.example.controller.ApiRequest;
-import org.example.controller.WebScraper;
+import org.example.scraper.WebScraper;
 
 import java.util.Scanner;
 

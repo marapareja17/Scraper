@@ -6,6 +6,7 @@ import org.example.model.Comment;
 import org.example.model.Location;
 import org.example.model.Rating;
 import org.example.model.Service;
+import org.example.scraper.WebScraper;
 
 import java.util.List;
 import java.util.stream.Collectors;
